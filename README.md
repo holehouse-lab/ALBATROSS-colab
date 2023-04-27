@@ -2,5 +2,5 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-# EnsPredict-colab
+# ALBATROSS-colab
  Repository used with Google Colab notebooks for our IDR ensemble dimension predictors.
