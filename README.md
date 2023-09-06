@@ -1,7 +1,10 @@
 ![logo_v1](https://user-images.githubusercontent.com/71458933/236352540-c11d5076-1346-4cfb-8649-092f6c7c1485.png)
 
 # ALBATROSS-colab
-Repository used with Google Colab notebooks for our IDR ensemble dimension predictors.
+##### Last updated 2023-09-05
+
+## About
+Repository used with Google Colab notebooks for our IDR ensemble dimension predictors. For using ALBATROSS locally please head on over to the [sparrow GitHub page](https://github.com/idptools/sparrow). 
 
 ## IDR analysis
 Use this notebook if you have a FASTA file containing one or more IDRs or a single sequence you wish to analyze.
