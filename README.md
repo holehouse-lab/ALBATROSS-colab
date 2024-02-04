@@ -1,7 +1,7 @@
 ![logo_v1](https://user-images.githubusercontent.com/71458933/236352540-c11d5076-1346-4cfb-8649-092f6c7c1485.png)
 
 # ALBATROSS-colab
-##### Last updated 2023-09-05
+##### Last updated 2024-02-04
 
 ## About
 Repository used with Google Colab notebooks for our IDR ensemble dimension predictors. For using ALBATROSS locally please head on over to the [sparrow GitHub page](https://github.com/idptools/sparrow). 
@@ -22,8 +22,8 @@ Use this notebook if you have a FASTA file of protein sequences and wish to (1) 
 
 
 ## How to cite
-If you use either of these notebooks please cite our preprint:
+If you use either of these notebooks, please cite our paper:
 
-Lotthammer, J. M., Ginell, G. M., Griffith, D., Emenecker, R. J. & Holehouse, A. S. Direct prediction of intrinsically disordered protein conformational properties from sequence. bioRxiv 2023.05.08.539824 (2023). doi:10.1101/2023.05.08.539824
+Lotthammer, J. M\*., Ginell, G. M.\*, Griffith, D.\*, Emenecker, R. J. & Holehouse, A. S. Direct prediction of intrinsically disordered protein conformational properties from sequences. Nat. Methods (2024). doi:10.1038/s41592-023-02159-5
 
 
